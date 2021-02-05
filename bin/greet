@@ -2,3 +2,8 @@
 require_relative "../lib/greeting.rb"
 
 # code your CLI here!
+
+puts "Hello welcome to the world of Ruby programming!"
+puts "What's youre name"
+gets.strip
+end
